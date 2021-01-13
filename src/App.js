@@ -5,11 +5,11 @@ import Address from "./component/profiles/Address";
 
 function App() {
   return (
-    <div>
+    <>
       <ProfilPhoto />
       <FullName />
       <Address />
-    </div>
+    </>
   );
 }
 

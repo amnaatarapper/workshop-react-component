@@ -12,7 +12,7 @@ const FullName = () => {
   return (
     <div align="center">
       <div className="col-sm-4">
-        <StyledName myProp="myProp" />
+        <StyledName test="test" />
       </div>
     </div>
   );
